@@ -1,0 +1,52 @@
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
+/*CSS Selectors 1/23
+to add a color to the background
+here is the css
+
+body
+{
+background-color: #C6E2FF;    
+}
+
+to add color to just the h3 header nested insite three div's
+div div div h3 {
+color: red;
+}
+}
+CSS Selectors 3/23 Universal Selector for adding dashed border boxes around the elements
+* {
+    border: 2px dashed #3A5FCD;
+}  */

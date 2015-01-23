@@ -1,0 +1,70 @@
+/*Add your CSS below!*/
+
+td
+{
+height: 50px;
+border: 1px dashed blue;
+    
+}
+
+tb
+{
+border: 1px solid black;
+}
+
+
+/*This is 21 of 26!*/
+
+a
+
+{
+color: #cc0000;
+text-decoration: none;
+}
+
+/*This is 25 of 26!*/
+
+h1 {
+  font-family: Verdana, sans-serif;
+  color: #576D94;
+}
+
+p {
+    font-family: Garamond, serif;
+  font-size: 18px;
+  color: #4A4943;
+  
+}
+p image
+
+{
+height: 100px;
+width: 300px;
+border: 1px solid #4682b4;
+}
+
+/*This is 26 of 26!*/
+h1 {
+  font-family: Verdana, sans-serif;
+  color: #576D94;
+}
+
+p {
+    font-family: Garamond, serif;
+  font-size: 18px;
+  color: #4A4943;
+  
+}
+p image
+
+{
+height: 100px;
+width: 300px;
+border: 1px solid #4682b4;
+}
+a
+
+{
+text-decoration: none;
+color: #cc0000;
+}

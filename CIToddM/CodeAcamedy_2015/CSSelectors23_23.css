@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+/*Add your CSS below!*/
+
+.fancy
+{
+ font-family: cursive;
+ color: violet;
+ 
+}
+
+#serious  {
+font-family:  Courier;
+color: #8C8C8C;
+}
+body :nth-child(4){
+font-size: 26px;
+}
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<!--Add your HTML below!-->
+		<h3 class="fancy">About Me</h3>
+		<p class="fancy">I am the angriest puppy in the world. This has been scientifically proven in several clinical trials.</p>
+	<p id="serious">When you set a property of a selector like 'p' to a certain value, that value applies to <em>all</em> p tags.
+			If, however, you change that same property to a different value for a more specific instance of p,
+			that change will <em>override</em> the 'general rule'.
+			</p>	
+<p>I am the angriest puppy in the world. This has been scientifically proven in several clinical trials.</p>	
+	</body>
+</html>
